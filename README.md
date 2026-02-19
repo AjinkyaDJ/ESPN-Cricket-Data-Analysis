@@ -198,8 +198,11 @@ Run-Outs – Direct and assisted run-outs
 Fielding Impact Score – Weighted contribution to team defense
 
 Screenshots / Demos:
+
 Batting:- 
 ![Dashboard Preview](https://github.com/AjinkyaDJ/ESPN-Cricket-Data-Analysis/blob/main/Batting%20Screenshot.png)
 Bowling:- 
 ![Dashboard Preview](https://github.com/AjinkyaDJ/ESPN-Cricket-Data-Analysis/blob/main/Bowling%20Screenshot.png)
+Fielding:-
+![Dashboard Preview](https://github.com/AjinkyaDJ/ESPN-Cricket-Data-Analysis/blob/main/Fielding%20Screenshot.png)
 
